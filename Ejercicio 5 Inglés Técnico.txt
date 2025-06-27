@@ -1,0 +1,15 @@
+Ejercicio 5: Inglés Técnico
+1. Traducir comentarios:
+// Esta función calcula el precio total con impuestos: This Function calculates the total price with taxes
+
+// Parámetros: precio base y porcentaje de IVA : Parameters: Standard price and VAT percent
+// Devuelve el precio final : Returns the final price
+
+
+2. Leer fragmento técnico (API REST) y responder:
+
+• ¿Qué endpoint se usa para listar recursos? The GET/api endpoint is used to list resources
+
+• ¿Qué status code se espera al crear un recurso? The expected status code when we create a resource is 201 Created
+
+• ¿Qué tipo de autenticación utiliza la API? The API uses Bearer Token Auth

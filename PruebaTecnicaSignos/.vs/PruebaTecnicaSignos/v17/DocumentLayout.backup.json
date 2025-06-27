@@ -1,0 +1,479 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\semig\\Downloads\\C# learning\\PruebaTecnicaSignos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{924FFB7A-B57E-4E80-BD89-847032BD8C03}|PruebaTecnicaSignos\\PruebaTecnicaSignos.csproj|c:\\users\\semig\\downloads\\c# learning\\pruebatecnicasignos\\pruebatecnicasignos\\productosapi\\graphql\\mutation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{924FFB7A-B57E-4E80-BD89-847032BD8C03}|PruebaTecnicaSignos\\PruebaTecnicaSignos.csproj|solutionrelative:pruebatecnicasignos\\productosapi\\graphql\\mutation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{924FFB7A-B57E-4E80-BD89-847032BD8C03}|PruebaTecnicaSignos\\PruebaTecnicaSignos.csproj|c:\\users\\semig\\downloads\\c# learning\\pruebatecnicasignos\\pruebatecnicasignos\\application\\dtos\\createproductoinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{924FFB7A-B57E-4E80-BD89-847032BD8C03}|PruebaTecnicaSignos\\PruebaTecnicaSignos.csproj|solutionrelative:pruebatecnicasignos\\application\\dtos\\createproductoinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{924FFB7A-B57E-4E80-BD89-847032BD8C03}|PruebaTecnicaSignos\\PruebaTecnicaSignos.csproj|c:\\users\\semig\\downloads\\c# learning\\pruebatecnicasignos\\pruebatecnicasignos\\domain\\entities\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{924FFB7A-B57E-4E80-BD89-847032BD8C03}|PruebaTecnicaSignos\\PruebaTecnicaSignos.csproj|solutionrelative:pruebatecnicasignos\\domain\\entities\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{924FFB7A-B57E-4E80-BD89-847032BD8C03}|PruebaTecnicaSignos\\PruebaTecnicaSignos.csproj|c:\\users\\semig\\downloads\\c# learning\\pruebatecnicasignos\\pruebatecnicasignos\\infraestructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{924FFB7A-B57E-4E80-BD89-847032BD8C03}|PruebaTecnicaSignos\\PruebaTecnicaSignos.csproj|solutionrelative:pruebatecnicasignos\\infraestructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{924FFB7A-B57E-4E80-BD89-847032BD8C03}|PruebaTecnicaSignos\\PruebaTecnicaSignos.csproj|c:\\users\\semig\\downloads\\c# learning\\pruebatecnicasignos\\pruebatecnicasignos\\domain\\entities\\unidadmedida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{924FFB7A-B57E-4E80-BD89-847032BD8C03}|PruebaTecnicaSignos\\PruebaTecnicaSignos.csproj|solutionrelative:pruebatecnicasignos\\domain\\entities\\unidadmedida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{924FFB7A-B57E-4E80-BD89-847032BD8C03}|PruebaTecnicaSignos\\PruebaTecnicaSignos.csproj|c:\\users\\semig\\downloads\\c# learning\\pruebatecnicasignos\\pruebatecnicasignos\\domain\\entities\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{924FFB7A-B57E-4E80-BD89-847032BD8C03}|PruebaTecnicaSignos\\PruebaTecnicaSignos.csproj|solutionrelative:pruebatecnicasignos\\domain\\entities\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{924FFB7A-B57E-4E80-BD89-847032BD8C03}|PruebaTecnicaSignos\\PruebaTecnicaSignos.csproj|c:\\users\\semig\\downloads\\c# learning\\pruebatecnicasignos\\pruebatecnicasignos\\infraestructure\\repositories\\unidadmedidarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{924FFB7A-B57E-4E80-BD89-847032BD8C03}|PruebaTecnicaSignos\\PruebaTecnicaSignos.csproj|solutionrelative:pruebatecnicasignos\\infraestructure\\repositories\\unidadmedidarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{924FFB7A-B57E-4E80-BD89-847032BD8C03}|PruebaTecnicaSignos\\PruebaTecnicaSignos.csproj|c:\\users\\semig\\downloads\\c# learning\\pruebatecnicasignos\\pruebatecnicasignos\\productosapi\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{924FFB7A-B57E-4E80-BD89-847032BD8C03}|PruebaTecnicaSignos\\PruebaTecnicaSignos.csproj|solutionrelative:pruebatecnicasignos\\productosapi\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{924FFB7A-B57E-4E80-BD89-847032BD8C03}|PruebaTecnicaSignos\\PruebaTecnicaSignos.csproj|c:\\users\\semig\\downloads\\c# learning\\pruebatecnicasignos\\pruebatecnicasignos\\infraestructure\\repositories\\productorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{924FFB7A-B57E-4E80-BD89-847032BD8C03}|PruebaTecnicaSignos\\PruebaTecnicaSignos.csproj|solutionrelative:pruebatecnicasignos\\infraestructure\\repositories\\productorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{924FFB7A-B57E-4E80-BD89-847032BD8C03}|PruebaTecnicaSignos\\PruebaTecnicaSignos.csproj|c:\\users\\semig\\downloads\\c# learning\\pruebatecnicasignos\\pruebatecnicasignos\\domain\\interfaces\\iproductorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{924FFB7A-B57E-4E80-BD89-847032BD8C03}|PruebaTecnicaSignos\\PruebaTecnicaSignos.csproj|solutionrelative:pruebatecnicasignos\\domain\\interfaces\\iproductorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{924FFB7A-B57E-4E80-BD89-847032BD8C03}|PruebaTecnicaSignos\\PruebaTecnicaSignos.csproj|c:\\users\\semig\\downloads\\c# learning\\pruebatecnicasignos\\pruebatecnicasignos\\productosapi\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{924FFB7A-B57E-4E80-BD89-847032BD8C03}|PruebaTecnicaSignos\\PruebaTecnicaSignos.csproj|solutionrelative:pruebatecnicasignos\\productosapi\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{924FFB7A-B57E-4E80-BD89-847032BD8C03}|PruebaTecnicaSignos\\PruebaTecnicaSignos.csproj|c:\\users\\semig\\downloads\\c# learning\\pruebatecnicasignos\\pruebatecnicasignos\\productosapi\\controllers\\proveedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{924FFB7A-B57E-4E80-BD89-847032BD8C03}|PruebaTecnicaSignos\\PruebaTecnicaSignos.csproj|solutionrelative:pruebatecnicasignos\\productosapi\\controllers\\proveedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{924FFB7A-B57E-4E80-BD89-847032BD8C03}|PruebaTecnicaSignos\\PruebaTecnicaSignos.csproj|c:\\users\\semig\\downloads\\c# learning\\pruebatecnicasignos\\pruebatecnicasignos\\productosapi\\controllers\\unidadmedidacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{924FFB7A-B57E-4E80-BD89-847032BD8C03}|PruebaTecnicaSignos\\PruebaTecnicaSignos.csproj|solutionrelative:pruebatecnicasignos\\productosapi\\controllers\\unidadmedidacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{924FFB7A-B57E-4E80-BD89-847032BD8C03}|PruebaTecnicaSignos\\PruebaTecnicaSignos.csproj|c:\\users\\semig\\downloads\\c# learning\\pruebatecnicasignos\\pruebatecnicasignos\\productosapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{924FFB7A-B57E-4E80-BD89-847032BD8C03}|PruebaTecnicaSignos\\PruebaTecnicaSignos.csproj|solutionrelative:pruebatecnicasignos\\productosapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{924FFB7A-B57E-4E80-BD89-847032BD8C03}|PruebaTecnicaSignos\\PruebaTecnicaSignos.csproj|c:\\users\\semig\\downloads\\c# learning\\pruebatecnicasignos\\pruebatecnicasignos\\productosapi\\graphql\\query.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{924FFB7A-B57E-4E80-BD89-847032BD8C03}|PruebaTecnicaSignos\\PruebaTecnicaSignos.csproj|solutionrelative:pruebatecnicasignos\\productosapi\\graphql\\query.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{924FFB7A-B57E-4E80-BD89-847032BD8C03}|PruebaTecnicaSignos\\PruebaTecnicaSignos.csproj|c:\\users\\semig\\downloads\\c# learning\\pruebatecnicasignos\\pruebatecnicasignos\\productosapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{924FFB7A-B57E-4E80-BD89-847032BD8C03}|PruebaTecnicaSignos\\PruebaTecnicaSignos.csproj|solutionrelative:pruebatecnicasignos\\productosapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{924FFB7A-B57E-4E80-BD89-847032BD8C03}|PruebaTecnicaSignos\\PruebaTecnicaSignos.csproj|c:\\users\\semig\\downloads\\c# learning\\pruebatecnicasignos\\pruebatecnicasignos\\application\\services\\unidadmedidaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{924FFB7A-B57E-4E80-BD89-847032BD8C03}|PruebaTecnicaSignos\\PruebaTecnicaSignos.csproj|solutionrelative:pruebatecnicasignos\\application\\services\\unidadmedidaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{924FFB7A-B57E-4E80-BD89-847032BD8C03}|PruebaTecnicaSignos\\PruebaTecnicaSignos.csproj|c:\\users\\semig\\downloads\\c# learning\\pruebatecnicasignos\\pruebatecnicasignos\\application\\services\\proveedorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{924FFB7A-B57E-4E80-BD89-847032BD8C03}|PruebaTecnicaSignos\\PruebaTecnicaSignos.csproj|solutionrelative:pruebatecnicasignos\\application\\services\\proveedorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{924FFB7A-B57E-4E80-BD89-847032BD8C03}|PruebaTecnicaSignos\\PruebaTecnicaSignos.csproj|c:\\users\\semig\\downloads\\c# learning\\pruebatecnicasignos\\pruebatecnicasignos\\domain\\interfaces\\iunidadmedidarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{924FFB7A-B57E-4E80-BD89-847032BD8C03}|PruebaTecnicaSignos\\PruebaTecnicaSignos.csproj|solutionrelative:pruebatecnicasignos\\domain\\interfaces\\iunidadmedidarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{924FFB7A-B57E-4E80-BD89-847032BD8C03}|PruebaTecnicaSignos\\PruebaTecnicaSignos.csproj|c:\\users\\semig\\downloads\\c# learning\\pruebatecnicasignos\\pruebatecnicasignos\\infraestructure\\repositories\\proveedorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{924FFB7A-B57E-4E80-BD89-847032BD8C03}|PruebaTecnicaSignos\\PruebaTecnicaSignos.csproj|solutionrelative:pruebatecnicasignos\\infraestructure\\repositories\\proveedorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{924FFB7A-B57E-4E80-BD89-847032BD8C03}|PruebaTecnicaSignos\\PruebaTecnicaSignos.csproj|c:\\users\\semig\\downloads\\c# learning\\pruebatecnicasignos\\pruebatecnicasignos\\domain\\interfaces\\iproveedorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{924FFB7A-B57E-4E80-BD89-847032BD8C03}|PruebaTecnicaSignos\\PruebaTecnicaSignos.csproj|solutionrelative:pruebatecnicasignos\\domain\\interfaces\\iproveedorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{924FFB7A-B57E-4E80-BD89-847032BD8C03}|PruebaTecnicaSignos\\PruebaTecnicaSignos.csproj|c:\\users\\semig\\downloads\\c# learning\\pruebatecnicasignos\\pruebatecnicasignos\\domain\\interfaces\\icategoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{924FFB7A-B57E-4E80-BD89-847032BD8C03}|PruebaTecnicaSignos\\PruebaTecnicaSignos.csproj|solutionrelative:pruebatecnicasignos\\domain\\interfaces\\icategoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{924FFB7A-B57E-4E80-BD89-847032BD8C03}|PruebaTecnicaSignos\\PruebaTecnicaSignos.csproj|c:\\users\\semig\\downloads\\c# learning\\pruebatecnicasignos\\pruebatecnicasignos\\domain\\entities\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{924FFB7A-B57E-4E80-BD89-847032BD8C03}|PruebaTecnicaSignos\\PruebaTecnicaSignos.csproj|solutionrelative:pruebatecnicasignos\\domain\\entities\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{924FFB7A-B57E-4E80-BD89-847032BD8C03}|PruebaTecnicaSignos\\PruebaTecnicaSignos.csproj|c:\\users\\semig\\downloads\\c# learning\\pruebatecnicasignos\\pruebatecnicasignos\\application\\services\\categoriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{924FFB7A-B57E-4E80-BD89-847032BD8C03}|PruebaTecnicaSignos\\PruebaTecnicaSignos.csproj|solutionrelative:pruebatecnicasignos\\application\\services\\categoriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{924FFB7A-B57E-4E80-BD89-847032BD8C03}|PruebaTecnicaSignos\\PruebaTecnicaSignos.csproj|c:\\users\\semig\\downloads\\c# learning\\pruebatecnicasignos\\pruebatecnicasignos\\infraestructure\\repositories\\categoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{924FFB7A-B57E-4E80-BD89-847032BD8C03}|PruebaTecnicaSignos\\PruebaTecnicaSignos.csproj|solutionrelative:pruebatecnicasignos\\infraestructure\\repositories\\categoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{924FFB7A-B57E-4E80-BD89-847032BD8C03}|PruebaTecnicaSignos\\PruebaTecnicaSignos.csproj|c:\\users\\semig\\downloads\\c# learning\\pruebatecnicasignos\\pruebatecnicasignos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{924FFB7A-B57E-4E80-BD89-847032BD8C03}|PruebaTecnicaSignos\\PruebaTecnicaSignos.csproj|solutionrelative:pruebatecnicasignos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{924FFB7A-B57E-4E80-BD89-847032BD8C03}|PruebaTecnicaSignos\\PruebaTecnicaSignos.csproj|c:\\users\\semig\\downloads\\c# learning\\pruebatecnicasignos\\pruebatecnicasignos\\application\\services\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{924FFB7A-B57E-4E80-BD89-847032BD8C03}|PruebaTecnicaSignos\\PruebaTecnicaSignos.csproj|solutionrelative:pruebatecnicasignos\\application\\services\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateProductoInput.cs",
+              "DocumentMoniker": "C:\\Users\\semig\\Downloads\\C# learning\\PruebaTecnicaSignos\\PruebaTecnicaSignos\\Application\\DTOs\\CreateProductoInput.cs",
+              "RelativeDocumentMoniker": "PruebaTecnicaSignos\\Application\\DTOs\\CreateProductoInput.cs",
+              "ToolTip": "C:\\Users\\semig\\Downloads\\C# learning\\PruebaTecnicaSignos\\PruebaTecnicaSignos\\Application\\DTOs\\CreateProductoInput.cs",
+              "RelativeToolTip": "PruebaTecnicaSignos\\Application\\DTOs\\CreateProductoInput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T14:43:18.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\semig\\Downloads\\C# learning\\PruebaTecnicaSignos\\PruebaTecnicaSignos\\Infraestructure\\Repositories\\ProductoRepository.cs",
+              "RelativeDocumentMoniker": "PruebaTecnicaSignos\\Infraestructure\\Repositories\\ProductoRepository.cs",
+              "ToolTip": "C:\\Users\\semig\\Downloads\\C# learning\\PruebaTecnicaSignos\\PruebaTecnicaSignos\\Infraestructure\\Repositories\\ProductoRepository.cs",
+              "RelativeToolTip": "PruebaTecnicaSignos\\Infraestructure\\Repositories\\ProductoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T04:25:36.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UnidadMedidaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\semig\\Downloads\\C# learning\\PruebaTecnicaSignos\\PruebaTecnicaSignos\\Infraestructure\\Repositories\\UnidadMedidaRepository.cs",
+              "RelativeDocumentMoniker": "PruebaTecnicaSignos\\Infraestructure\\Repositories\\UnidadMedidaRepository.cs",
+              "ToolTip": "C:\\Users\\semig\\Downloads\\C# learning\\PruebaTecnicaSignos\\PruebaTecnicaSignos\\Infraestructure\\Repositories\\UnidadMedidaRepository.cs",
+              "RelativeToolTip": "PruebaTecnicaSignos\\Infraestructure\\Repositories\\UnidadMedidaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvzAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T08:10:10.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Proveedor.cs",
+              "DocumentMoniker": "C:\\Users\\semig\\Downloads\\C# learning\\PruebaTecnicaSignos\\PruebaTecnicaSignos\\Domain\\Entities\\Proveedor.cs",
+              "RelativeDocumentMoniker": "PruebaTecnicaSignos\\Domain\\Entities\\Proveedor.cs",
+              "ToolTip": "C:\\Users\\semig\\Downloads\\C# learning\\PruebaTecnicaSignos\\PruebaTecnicaSignos\\Domain\\Entities\\Proveedor.cs",
+              "RelativeToolTip": "PruebaTecnicaSignos\\Domain\\Entities\\Proveedor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T07:16:43.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UnidadMedida.cs",
+              "DocumentMoniker": "C:\\Users\\semig\\Downloads\\C# learning\\PruebaTecnicaSignos\\PruebaTecnicaSignos\\Domain\\Entities\\UnidadMedida.cs",
+              "RelativeDocumentMoniker": "PruebaTecnicaSignos\\Domain\\Entities\\UnidadMedida.cs",
+              "ToolTip": "C:\\Users\\semig\\Downloads\\C# learning\\PruebaTecnicaSignos\\PruebaTecnicaSignos\\Domain\\Entities\\UnidadMedida.cs",
+              "RelativeToolTip": "PruebaTecnicaSignos\\Domain\\Entities\\UnidadMedida.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T07:20:07.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\semig\\Downloads\\C# learning\\PruebaTecnicaSignos\\PruebaTecnicaSignos\\Infraestructure\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "PruebaTecnicaSignos\\Infraestructure\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\semig\\Downloads\\C# learning\\PruebaTecnicaSignos\\PruebaTecnicaSignos\\Infraestructure\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "PruebaTecnicaSignos\\Infraestructure\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAQwBUAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T04:24:14.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\semig\\Downloads\\C# learning\\PruebaTecnicaSignos\\PruebaTecnicaSignos\\Domain\\Entities\\Producto.cs",
+              "RelativeDocumentMoniker": "PruebaTecnicaSignos\\Domain\\Entities\\Producto.cs",
+              "ToolTip": "C:\\Users\\semig\\Downloads\\C# learning\\PruebaTecnicaSignos\\PruebaTecnicaSignos\\Domain\\Entities\\Producto.cs",
+              "RelativeToolTip": "PruebaTecnicaSignos\\Domain\\Entities\\Producto.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T04:18:56.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IProductoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\semig\\Downloads\\C# learning\\PruebaTecnicaSignos\\PruebaTecnicaSignos\\Domain\\Interfaces\\IProductoRepository.cs",
+              "RelativeDocumentMoniker": "PruebaTecnicaSignos\\Domain\\Interfaces\\IProductoRepository.cs",
+              "ToolTip": "C:\\Users\\semig\\Downloads\\C# learning\\PruebaTecnicaSignos\\PruebaTecnicaSignos\\Domain\\Interfaces\\IProductoRepository.cs",
+              "RelativeToolTip": "PruebaTecnicaSignos\\Domain\\Interfaces\\IProductoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T04:19:46.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Mutation.cs",
+              "DocumentMoniker": "C:\\Users\\semig\\Downloads\\C# learning\\PruebaTecnicaSignos\\PruebaTecnicaSignos\\ProductosApi\\GraphQL\\Mutation.cs",
+              "RelativeDocumentMoniker": "PruebaTecnicaSignos\\ProductosApi\\GraphQL\\Mutation.cs",
+              "ToolTip": "C:\\Users\\semig\\Downloads\\C# learning\\PruebaTecnicaSignos\\PruebaTecnicaSignos\\ProductosApi\\GraphQL\\Mutation.cs",
+              "RelativeToolTip": "PruebaTecnicaSignos\\ProductosApi\\GraphQL\\Mutation.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T08:15:29.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CategoriasController.cs",
+              "DocumentMoniker": "C:\\Users\\semig\\Downloads\\C# learning\\PruebaTecnicaSignos\\PruebaTecnicaSignos\\ProductosApi\\Controllers\\CategoriasController.cs",
+              "RelativeDocumentMoniker": "PruebaTecnicaSignos\\ProductosApi\\Controllers\\CategoriasController.cs",
+              "ToolTip": "C:\\Users\\semig\\Downloads\\C# learning\\PruebaTecnicaSignos\\PruebaTecnicaSignos\\ProductosApi\\Controllers\\CategoriasController.cs",
+              "RelativeToolTip": "PruebaTecnicaSignos\\ProductosApi\\Controllers\\CategoriasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T07:59:26.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductosController.cs",
+              "DocumentMoniker": "C:\\Users\\semig\\Downloads\\C# learning\\PruebaTecnicaSignos\\PruebaTecnicaSignos\\ProductosApi\\Controllers\\ProductosController.cs",
+              "RelativeDocumentMoniker": "PruebaTecnicaSignos\\ProductosApi\\Controllers\\ProductosController.cs",
+              "ToolTip": "C:\\Users\\semig\\Downloads\\C# learning\\PruebaTecnicaSignos\\PruebaTecnicaSignos\\ProductosApi\\Controllers\\ProductosController.cs",
+              "RelativeToolTip": "PruebaTecnicaSignos\\ProductosApi\\Controllers\\ProductosController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAowCEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T04:53:21.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProveedorController.cs",
+              "DocumentMoniker": "C:\\Users\\semig\\Downloads\\C# learning\\PruebaTecnicaSignos\\PruebaTecnicaSignos\\ProductosApi\\Controllers\\ProveedorController.cs",
+              "RelativeDocumentMoniker": "PruebaTecnicaSignos\\ProductosApi\\Controllers\\ProveedorController.cs",
+              "ToolTip": "C:\\Users\\semig\\Downloads\\C# learning\\PruebaTecnicaSignos\\PruebaTecnicaSignos\\ProductosApi\\Controllers\\ProveedorController.cs",
+              "RelativeToolTip": "PruebaTecnicaSignos\\ProductosApi\\Controllers\\ProveedorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T08:11:15.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UnidadMedidaController.cs",
+              "DocumentMoniker": "C:\\Users\\semig\\Downloads\\C# learning\\PruebaTecnicaSignos\\PruebaTecnicaSignos\\ProductosApi\\Controllers\\UnidadMedidaController.cs",
+              "RelativeDocumentMoniker": "PruebaTecnicaSignos\\ProductosApi\\Controllers\\UnidadMedidaController.cs",
+              "ToolTip": "C:\\Users\\semig\\Downloads\\C# learning\\PruebaTecnicaSignos\\PruebaTecnicaSignos\\ProductosApi\\Controllers\\UnidadMedidaController.cs",
+              "RelativeToolTip": "PruebaTecnicaSignos\\ProductosApi\\Controllers\\UnidadMedidaController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwB8AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T08:12:02.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\semig\\Downloads\\C# learning\\PruebaTecnicaSignos\\PruebaTecnicaSignos\\ProductosApi\\Program.cs",
+              "RelativeDocumentMoniker": "PruebaTecnicaSignos\\ProductosApi\\Program.cs",
+              "ToolTip": "C:\\Users\\semig\\Downloads\\C# learning\\PruebaTecnicaSignos\\PruebaTecnicaSignos\\ProductosApi\\Program.cs",
+              "RelativeToolTip": "PruebaTecnicaSignos\\ProductosApi\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T04:53:56.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\semig\\Downloads\\C# learning\\PruebaTecnicaSignos\\PruebaTecnicaSignos\\ProductosApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "PruebaTecnicaSignos\\ProductosApi\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\semig\\Downloads\\C# learning\\PruebaTecnicaSignos\\PruebaTecnicaSignos\\ProductosApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "PruebaTecnicaSignos\\ProductosApi\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T05:03:01.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UnidadMedidaService.cs",
+              "DocumentMoniker": "C:\\Users\\semig\\Downloads\\C# learning\\PruebaTecnicaSignos\\PruebaTecnicaSignos\\Application\\Services\\UnidadMedidaService.cs",
+              "RelativeDocumentMoniker": "PruebaTecnicaSignos\\Application\\Services\\UnidadMedidaService.cs",
+              "ToolTip": "C:\\Users\\semig\\Downloads\\C# learning\\PruebaTecnicaSignos\\PruebaTecnicaSignos\\Application\\Services\\UnidadMedidaService.cs",
+              "RelativeToolTip": "PruebaTecnicaSignos\\Application\\Services\\UnidadMedidaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T08:06:36.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProveedorService.cs",
+              "DocumentMoniker": "C:\\Users\\semig\\Downloads\\C# learning\\PruebaTecnicaSignos\\PruebaTecnicaSignos\\Application\\Services\\ProveedorService.cs",
+              "RelativeDocumentMoniker": "PruebaTecnicaSignos\\Application\\Services\\ProveedorService.cs",
+              "ToolTip": "C:\\Users\\semig\\Downloads\\C# learning\\PruebaTecnicaSignos\\PruebaTecnicaSignos\\Application\\Services\\ProveedorService.cs",
+              "RelativeToolTip": "PruebaTecnicaSignos\\Application\\Services\\ProveedorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T08:06:00.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IUnidadMedidaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\semig\\Downloads\\C# learning\\PruebaTecnicaSignos\\PruebaTecnicaSignos\\Domain\\Interfaces\\IUnidadMedidaRepository.cs",
+              "RelativeDocumentMoniker": "PruebaTecnicaSignos\\Domain\\Interfaces\\IUnidadMedidaRepository.cs",
+              "ToolTip": "C:\\Users\\semig\\Downloads\\C# learning\\PruebaTecnicaSignos\\PruebaTecnicaSignos\\Domain\\Interfaces\\IUnidadMedidaRepository.cs",
+              "RelativeToolTip": "PruebaTecnicaSignos\\Domain\\Interfaces\\IUnidadMedidaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T08:08:30.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Query.cs",
+              "DocumentMoniker": "C:\\Users\\semig\\Downloads\\C# learning\\PruebaTecnicaSignos\\PruebaTecnicaSignos\\ProductosApi\\GraphQL\\Query.cs",
+              "RelativeDocumentMoniker": "PruebaTecnicaSignos\\ProductosApi\\GraphQL\\Query.cs",
+              "ToolTip": "C:\\Users\\semig\\Downloads\\C# learning\\PruebaTecnicaSignos\\PruebaTecnicaSignos\\ProductosApi\\GraphQL\\Query.cs",
+              "RelativeToolTip": "PruebaTecnicaSignos\\ProductosApi\\GraphQL\\Query.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T08:15:21.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProveedorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\semig\\Downloads\\C# learning\\PruebaTecnicaSignos\\PruebaTecnicaSignos\\Infraestructure\\Repositories\\ProveedorRepository.cs",
+              "RelativeDocumentMoniker": "PruebaTecnicaSignos\\Infraestructure\\Repositories\\ProveedorRepository.cs",
+              "ToolTip": "C:\\Users\\semig\\Downloads\\C# learning\\PruebaTecnicaSignos\\PruebaTecnicaSignos\\Infraestructure\\Repositories\\ProveedorRepository.cs",
+              "RelativeToolTip": "PruebaTecnicaSignos\\Infraestructure\\Repositories\\ProveedorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T08:09:46.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IProveedorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\semig\\Downloads\\C# learning\\PruebaTecnicaSignos\\PruebaTecnicaSignos\\Domain\\Interfaces\\IProveedorRepository.cs",
+              "RelativeDocumentMoniker": "PruebaTecnicaSignos\\Domain\\Interfaces\\IProveedorRepository.cs",
+              "ToolTip": "C:\\Users\\semig\\Downloads\\C# learning\\PruebaTecnicaSignos\\PruebaTecnicaSignos\\Domain\\Interfaces\\IProveedorRepository.cs",
+              "RelativeToolTip": "PruebaTecnicaSignos\\Domain\\Interfaces\\IProveedorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T08:08:02.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CategoriaService.cs",
+              "DocumentMoniker": "C:\\Users\\semig\\Downloads\\C# learning\\PruebaTecnicaSignos\\PruebaTecnicaSignos\\Application\\Services\\CategoriaService.cs",
+              "RelativeDocumentMoniker": "PruebaTecnicaSignos\\Application\\Services\\CategoriaService.cs",
+              "ToolTip": "C:\\Users\\semig\\Downloads\\C# learning\\PruebaTecnicaSignos\\PruebaTecnicaSignos\\Application\\Services\\CategoriaService.cs",
+              "RelativeToolTip": "PruebaTecnicaSignos\\Application\\Services\\CategoriaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T07:59:10.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\semig\\Downloads\\C# learning\\PruebaTecnicaSignos\\PruebaTecnicaSignos\\Domain\\Entities\\Categoria.cs",
+              "RelativeDocumentMoniker": "PruebaTecnicaSignos\\Domain\\Entities\\Categoria.cs",
+              "ToolTip": "C:\\Users\\semig\\Downloads\\C# learning\\PruebaTecnicaSignos\\PruebaTecnicaSignos\\Domain\\Entities\\Categoria.cs",
+              "RelativeToolTip": "PruebaTecnicaSignos\\Domain\\Entities\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T07:16:08.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ICategoriaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\semig\\Downloads\\C# learning\\PruebaTecnicaSignos\\PruebaTecnicaSignos\\Domain\\Interfaces\\ICategoriaRepository.cs",
+              "RelativeDocumentMoniker": "PruebaTecnicaSignos\\Domain\\Interfaces\\ICategoriaRepository.cs",
+              "ToolTip": "C:\\Users\\semig\\Downloads\\C# learning\\PruebaTecnicaSignos\\PruebaTecnicaSignos\\Domain\\Interfaces\\ICategoriaRepository.cs",
+              "RelativeToolTip": "PruebaTecnicaSignos\\Domain\\Interfaces\\ICategoriaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T07:41:03.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CategoriaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\semig\\Downloads\\C# learning\\PruebaTecnicaSignos\\PruebaTecnicaSignos\\Infraestructure\\Repositories\\CategoriaRepository.cs",
+              "RelativeDocumentMoniker": "PruebaTecnicaSignos\\Infraestructure\\Repositories\\CategoriaRepository.cs",
+              "ToolTip": "C:\\Users\\semig\\Downloads\\C# learning\\PruebaTecnicaSignos\\PruebaTecnicaSignos\\Infraestructure\\Repositories\\CategoriaRepository.cs",
+              "RelativeToolTip": "PruebaTecnicaSignos\\Infraestructure\\Repositories\\CategoriaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T07:41:43.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\semig\\Downloads\\C# learning\\PruebaTecnicaSignos\\PruebaTecnicaSignos\\appsettings.json",
+              "RelativeDocumentMoniker": "PruebaTecnicaSignos\\appsettings.json",
+              "ToolTip": "C:\\Users\\semig\\Downloads\\C# learning\\PruebaTecnicaSignos\\PruebaTecnicaSignos\\appsettings.json",
+              "RelativeToolTip": "PruebaTecnicaSignos\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAB+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-27T05:32:45.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ProductoService.cs",
+              "DocumentMoniker": "C:\\Users\\semig\\Downloads\\C# learning\\PruebaTecnicaSignos\\PruebaTecnicaSignos\\Application\\Services\\ProductoService.cs",
+              "RelativeDocumentMoniker": "PruebaTecnicaSignos\\Application\\Services\\ProductoService.cs",
+              "ToolTip": "C:\\Users\\semig\\Downloads\\C# learning\\PruebaTecnicaSignos\\PruebaTecnicaSignos\\Application\\Services\\ProductoService.cs",
+              "RelativeToolTip": "PruebaTecnicaSignos\\Application\\Services\\ProductoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T03:10:50.922Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
